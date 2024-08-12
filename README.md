@@ -10,25 +10,25 @@
 
 ## 🖥️ Run Locally
 
-Clone the project
+Клонирование проекта
 
 ```bash
   git clone https://github.com/xachakuri/todo-test-task.git
 ```
 
-Go to the project directory
+Директория проекта
 
 ```bash
   cd todo-test-task
 ```
 
-Install dependencies
+Установка зависимостей
 
 ```bash
   npm install
 ```
 
-Start the server
+Запуск
 
 ```bash
   npm run start
